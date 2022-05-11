@@ -6,4 +6,4 @@
 
 ### 3.Above the input field show how many characters typed into the field.
 
-### 4.Make the count color green, but if the it's greater than 10 make it red.
+### 4.Make the count color red, but if the it's greater than 10 make it green.
